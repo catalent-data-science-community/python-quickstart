@@ -1,0 +1,17 @@
+*
+!*/
+# allow all files under folder recursively
+!/data/**
+!/notebooks/**
+# allow file types in root
+!*.md
+# allow individual files in root
+!.gitattributes
+!.gitignore
+# exclude subfolders in allowed folders
+**/__pycache__/
+**/.ipynb_checkpoints/
+# exclude individual file types in allowed folders
+**/*.py[cod]
+**/*$py.class
+**/*.egg
