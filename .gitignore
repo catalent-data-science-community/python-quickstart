@@ -1,7 +1,9 @@
 *
 !*/
 # allow all files under folder recursively
+!/binder/**
 !/data/**
+!/images/**
 !/notebooks/**
 # allow file types in root
 !*.md
