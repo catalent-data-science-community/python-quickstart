@@ -312,9 +312,7 @@ typer==0.3.2
 typing_extensions==4.2.0
 uc-micro-py==1.0.1
 ujson==4.0.2
-unattended-upgrades==0.1
 urllib3==1.25.11
-venv-pack==0.2.0
 virtualenv==20.15.1
 visions==0.7.4
 wadllib==1.3.3
