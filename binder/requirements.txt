@@ -311,7 +311,6 @@ Twisted==18.9.0
 typer==0.3.2
 typing_extensions==4.2.0
 uc-micro-py==1.0.1
-ufw==0.36
 ujson==4.0.2
 unattended-upgrades==0.1
 urllib3==1.25.11
