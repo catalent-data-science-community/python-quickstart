@@ -133,11 +133,8 @@ knack==0.9.0
 koalas==1.8.2
 korean-lunar-calendar==0.2.1
 langcodes==3.3.0
-language-selector==0.1
 latexcodec==2.0.1
 launchpadlib==1.10.13
-lazr.restfulclient==0.14.2
-lazr.uri==1.0.3
 libclang==13.0.0
 lightgbm==3.3.2
 linkify-it-py==1.0.3
@@ -154,13 +151,7 @@ mdit-py-plugins==0.2.8
 missingno==0.5.1
 mistune==0.8.4
 mleap==0.18.1
-mlflow==1.25.1
-mlflow-skinny==1.24.0
 more-itertools==4.2.0
-msal==1.17.0
-msal-extensions==1.0.0
-msrest==0.6.21
-msrestazure==0.6.4
 multimethod==1.7
 murmurhash==1.0.5
 myst-nb==0.13.2
@@ -261,7 +252,6 @@ scikit-learn==0.24.1
 scipy==1.6.2
 scp==0.13.6
 seaborn==0.10.1
-SecretStorage==3.3.2
 semver==2.13.0
 Send2Trash==1.5.0
 service-identity==18.1.0
