@@ -1,8 +1,10 @@
 bamboolib
 geopy
+nltk
 numpy
 pandas
 pandas-profiling
 plotly
 scipy
 seaborn
+wordcloud
