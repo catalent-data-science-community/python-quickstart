@@ -1,10 +1,15 @@
 bamboolib
+contractions
+gensim
 geopy
+joblib
 nltk
 numpy
 pandas
 pandas-profiling
 plotly
+pyLDAvis
 scipy
 seaborn
+sklearn
 wordcloud
