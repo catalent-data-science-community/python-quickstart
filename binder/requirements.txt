@@ -2,6 +2,7 @@ bamboolib
 contractions
 gensim
 geopy
+joblib
 nltk
 numpy
 pandas
