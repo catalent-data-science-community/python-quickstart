@@ -26,7 +26,7 @@
 </center>
 
 1. Click one of the badges above to launch a [Jupyter Lab](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906) or [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html) instance in [Binder](https://mybinder.readthedocs.io/en/latest/index.html)  
-2. Once Jupyter has launched, click on a '.ipynb' file in the **notebooks** folder to open an interactive python notebook
+2. Once Jupyter has launched, click on an '.ipynb' file in the **notebooks** folder to open an interactive python notebook
 
 <blockquote>
     <ul>
@@ -41,19 +41,19 @@
 ## Contents
 
 ![data-science-roles](images/ds-process.png)  
-This repository provides an introduction to ***Exploratory Data Analysis*** and ***Data Cleaning*** in Python, and contains four (4) folders:  
+This repository provides an introduction to ***Exploratory Data Analysis***, ***Data Wrangling***, and ***Machine Learning*** in Python, and contains four (4) folders:  
 
 - **binder**  
 Contains .txt file with packages required to build a python environment for this repository using [Binder](https://mybinder.readthedocs.io/en/latest/index.html)
 
 - **data**  
-Contains .csv files with anonymized results from the questionnaires and surveys polled during our Kick Off sessions, as well as a sample dataset of the items sold in the [Cocoon Pharmacy site](https://www.cocooncenter.co.uk/c/cares-body.html) and their reviews [(from Kaggle).](https://www.kaggle.com/datasets/kholoudowais/cocooncenter-pharmacy)  
+Contains .csv files with anonymized results from the questionnaires and surveys polled during our Kick Off sessions, a sample dataset of the items sold in the [Cocoon Pharmacy site](https://www.cocooncenter.co.uk/c/cares-body.html) and their reviews [(from Kaggle)](https://www.kaggle.com/datasets/kholoudowais/cocooncenter-pharmacy), and pickled results from the *Data Wrangling* notebook
 
 - **images**  
 Contains .png files of graphics referenced in markdown across this repository
 
 - **notebooks**  
-Contains .ipynb files of *Exploratory Data Analysis* and *Data Wrangling* done on the contents of the **data** folder
+Contains .ipynb files of *Exploratory Data Analysis*, *Data Wrangling*, and *Machine Learning* done on the contents of the **data** folder
 
 ## Contributors
 
